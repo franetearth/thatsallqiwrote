@@ -7,6 +7,6 @@
 
 # Fran Qi
 
-[Publications](./Publications)
+[Publications](./Publications.md)
 
-[Contact](./Contact)
+[Contact](./Contact.md)
