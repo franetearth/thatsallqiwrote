@@ -1,3 +1,3 @@
 # Fran Qi
 
-blah blah
+[Publications](Publications)
