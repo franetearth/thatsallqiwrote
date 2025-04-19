@@ -1,7 +1,16 @@
 body {background-color: black;} 
-h1 {color: white;}
-h2 {color: white;}
-p {color: white;}
+h1 {
+  font-famly: Arial;
+  color: white;
+  }
+h2 {
+  font-famly: Arial;
+  color: white;
+}
+p {
+  font-famly: Arial;
+  color: white;
+}
 a:link {
   color: white;
   background-color: transparent;
