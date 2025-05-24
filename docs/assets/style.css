@@ -14,11 +14,10 @@ src:
 url('../Quicking/QuickingRegular.ttf') format('truetype'),
 font-weight: normal;
 font-style: normal;
-letter-spacing: 0.75em;
 }
 
 .em-wide {
-  letter-spacing: 0.4em;
+  letter-spacing: 0.2em;
 }
 
 h1 {
