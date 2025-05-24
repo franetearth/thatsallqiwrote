@@ -5,9 +5,14 @@ h1 {
   }
 h2 {
   font-famly: Montserrat;
+  color: white;
 }
 p {
   font-famly: Montserrat;
+  color: white;
+}
+body {
+  font-family: Montserrat;
   color: white;
 }
 a:link {
