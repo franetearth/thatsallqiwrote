@@ -17,6 +17,10 @@ font-style: normal;
 letter-spacing: 0.75em;
 }
 
+.em-wide {
+  letter-spacing: 0.4em;
+}
+
 h1 {
   font-family: Quicking;
   color: white;
