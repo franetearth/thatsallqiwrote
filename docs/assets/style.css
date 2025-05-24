@@ -57,11 +57,7 @@ a:active {
   text-decoration: underline;
   }
 
-/*
-.montserrat-<uniquifier> {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
-*/
+vertspacing {
+      display: flex;
+      align-items: center; /* Vertical centering */
+    }
