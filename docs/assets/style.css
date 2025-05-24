@@ -8,20 +8,28 @@ font-weight: normal;
 font-style: normal;
 }
 
+@font-face {
+font-family: 'Quicking';
+src: 
+url('../Quicking/QuickingRegular.ttf') format('truetype'),
+font-weight: normal;
+font-style: normal;
+}
+
 h1 {
-  font-famly: Montserrat;
+  font-famly: Quicking;
   color: white;
   }
 h2 {
-  font-famly: Montserrat;
+  font-famly: Quicking;
   color: white;
 }
 p {
-  font-famly: Montserrat;
+  font-famly: Quicking;
   color: white;
 }
 body {
-  font-family: Montserrat;
+  font-family: Quicking;
   color: white;
 }
 a:link {
