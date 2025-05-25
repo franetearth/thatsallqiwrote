@@ -57,7 +57,7 @@ a:active {
   text-decoration: underline;
   }
 
-/*vertspacing {
+vertcenter {
       display: flex;
-      align-items: center; Vertical centering
-    } */
+      align-items: center;
+    } 
