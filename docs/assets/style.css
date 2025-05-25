@@ -31,34 +31,32 @@ h2 {
 p {
   font-family: Quicking;
   color: white;
+  line-height: 1.3;
 }
 body {
   font-family: Quicking;
   color: white;
+  line-height: 1.3;
 }
 a:link {
   color: white;
   background-color: transparent;
   text-decoration: none;
-  line-height: 1.3;
   }
 a:visited {
   color: white;
   background-color: transparent;
   text-decoration: none;
-  line-height: 1.3;
   }
 a:hover {
   color: lightgrey;
   background-color: transparent;
   text-decoration: underline;
-  line-height: 1.3;
   }
 a:active {
   color: lightgrey;
   background-color: transparent;
   text-decoration: underline;
-  line-height: 1.3;
   }
 
 .vertcenter {
