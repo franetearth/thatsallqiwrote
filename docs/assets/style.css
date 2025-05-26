@@ -58,9 +58,9 @@ a:hover {
   text-decoration: none;
   }
 a:active {
-  color: lightgrey;
+  color: grey;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
   }
 
 .vertcenter {
